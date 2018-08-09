@@ -8,8 +8,8 @@
     "cloudwatch",
     "logplex"
   ],
-  "website": "https://github.com/kiskolabs/heroku-cloudwatch-drain",
-  "repository": "https://github.com/kiskolabs/heroku-cloudwatch-drain",
+  "website": "https://github.com/incloudcounsel/heroku-cloudwatch-drain",
+  "repository": "https://github.com/incloudcounsel/heroku-cloudwatch-drain",
   "success_url": "/",
   "env": {
     "USER": {
